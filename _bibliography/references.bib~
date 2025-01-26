@@ -1,0 +1,111 @@
+eferences
+==========
+
+@inproceedings{matai2016resolve,
+  title={Resolve: Generation of High-Performance Sorting Architectures from High-Level Synthesis},
+  author={Matai, Janarbek and Richmond, Dustin and Lee, Dajung and Blair, Zac and Wu, Qiongzhi and Abazari, Amin and Kastner, Ryan},
+  booktitle={Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays},
+  pages={195--204},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{matai2016composable,
+  title={Composable, parameterizable templates for high-level synthesis},
+  author={Matai, Janarbek and Lee, Dajung and Althoff, Alric and Kastner, Ryan},
+  booktitle={Proceedings of the 2016 Conference on Design, Automation \& Test in Europe},
+  pages={744--749},
+  year={2016},
+  organization={EDA Consortium}
+}
+
+@inproceedings{mao2015quantifying,
+  title={Quantifying timing-based information flow in cryptographic hardware},
+  author={Mao, Baolei and Hu, Wei and Althoff, Alric and Matai, Janarbek and Oberg, Jason and Mu, Dejun and Sherwood, Timothy and Kastner, Ryan},
+  booktitle={Proceedings of the IEEE/ACM International Conference on Computer-Aided Design},
+  pages={552--559},
+  year={2015},
+  organization={IEEE Press}
+}
+
+@inproceedings{gautier2014real,
+  title={Real-time 3D reconstruction for FPGAs: A case study for evaluating the performance, area, and programmability trade-offs of the Altera OpenCL SDK},
+  author={Gautier, Quentin and Shearer, Alexandria and Matai, Janarbek and Richmond, Dustin and Meng, Pingfan and Kastner, Ryan},
+  booktitle={Field-Programmable Technology (FPT), 2014 International Conference on},
+  pages={326--329},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{matai2014enabling,
+  title={Enabling FPGAs for the masses},
+  author={Matai, Janarbek and Richmond, Dustin and Lee, Dajung and Kastner, Ryan},
+  booktitle={First International Workshop on FPGAs for Software Programmers (FSP 2014)},
+  year={2014},
+}
+
+
+@inproceedings{lee2014high,
+  title={High throughput channel tracking for JTRS wireless channel emulation},
+  author={Lee, Dajung and Matai, Janarbek and Weals, Brad and Kastner, Ryan},
+  booktitle={Field Programmable Logic and Applications (FPL), 2014 24th International Conference on},
+  pages={1--4},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{matai2014energy,
+  title={Energy efficient canonical huffman encoding},
+  author={Matai, Janarbek and Kim, Joo-Young and Kastner, Ryan},
+  booktitle={Application-specific Systems, Architectures and Processors (ASAP), 2014 IEEE 25th International Conference on},
+  pages={202--209},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{kimura2013low,
+  title={A low-power AdaBoost-based object detection processor using Haar-like features},
+  author={Kimura, Motoki and Matai, Janarbek and Jacobsen, Matthew and Kastner, Ryan},
+  booktitle={Consumer Electronics?` Berlin (ICCE-Berlin), 2013. ICCEBerlin 2013. IEEE Third International Conference on},
+  pages={203--206},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{matai2012designing,
+  title={Designing a hardware in the loop wireless digital channel emulator for software defined radio},
+  author={Matai, Janarbek and Meng, Pingfan and Wu, Lingjuan and Weals, Brad and Kastner, Ryan},
+  booktitle={Field-Programmable Technology (FPT), 2012 International Conference on},
+  pages={206--214},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{matai2012trimmed,
+  title={Trimmed VLIW: Moving application specific processors towards high level synthesis},
+  author={Matai, Janarbek and Oberg, Jason and Irturk, Ali and Kim, Taemin and Kastner, Ryan},
+  booktitle={Electronic System Level Synthesis Conference (ESLsyn), 2012},
+  pages={11--16},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{matai2011design,
+  title={Design and implementation of an fpga-based real-time face recognition system},
+  author={Matai, Janarbek and Irturk, Ali and Kastner, Ryan},
+  booktitle={Field-Programmable Custom Computing Machines (FCCM), 2011 IEEE 19th Annual International Symposium on},
+  pages={97--100},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{irturk2011simulate,
+  title={Simulate and eliminate: A top-to-bottom design methodology for automatic generation of application specific architectures},
+  author={Irturk, Ali and Matai, Janarbek and Oberg, Jason and Su, Jeffrey and Kastner, Ryan},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  volume={30},
+  number={8},
+  pages={1173--1183},
+  year={2011},
+  publisher={IEEE}
+}
